@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ForgotInTransport" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/mainColor</item>
+
+    </style>
+
+<!--    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">-->
+<!--        <item name="colorControlNormal">#2E8B57</item>-->
+<!--        <item name="colorControlActivated">#2E8B57</item>-->
+<!--    </style>-->
+
+    <style name="Theme.ForgotInTransport" parent="Base.Theme.ForgotInTransport" >
+
+    </style>
+</resources>

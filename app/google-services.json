@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "506406197660",
+    "firebase_url": "https://datebasefit-default-rtdb.firebaseio.com",
+    "project_id": "datebasefit",
+    "storage_bucket": "datebasefit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506406197660:android:0e4598630e8d1273849059",
+        "android_client_info": {
+          "package_name": "com.miitdiplomasoft.forgotintransport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBROPrsyidtj46p0yrdQjT6hXBLuRnLWBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

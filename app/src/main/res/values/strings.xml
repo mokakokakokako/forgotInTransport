@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Forgot in transport</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="img">Img</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_menu">Меню</string>
+    <string name="title_favorites">Избранное</string>
+    <string name="title_add">Добавить предмет</string>
+    <string name="title_search">Поиск</string>
+    <string name="title_">Thing Description</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="hint_login">Введите логин</string>
+    <string name="hint_search_request">Введите запрос</string>
+    <string name="hint_password">Введите пароль</string>
+    <string name="hint_confirm_password">Подтвердите пароль</string>
+    <string name="hint_unique_code">Введите код подтверждения</string>
+    <string name="btn_log_in_text">Войти</string>
+    <string name="btn_log_in_as_admin_text">Войти как администратор</string>
+    <string name="btn_find_text">Поиск</string>
+    <string name="btn_get_data">Получить данные</string>
+    <string name="btn_sing_up_text">Зарегистрироваться</string>
+    <string name="btn_add_item">Добавить</string>
+    <string name="registration_logo_text">Регистрация</string>
+    <string name="authorization_log_in_as_admin_logo_text">Введите данные администратора</string>
+    <string name="sudo_user_data">sudo</string>
+    <string name="empty_fields_error">Не все поля заполнены</string>
+    <string name="mismatch_fields_error">Пароли не совпадают</string>
+    <string name="authorization_error">Неверный логин или пароль</string>
+    <string name="example_name">name</string>
+    <string name="hint_add_name">Введите название</string>
+    <string name="hint_add_location">Введите расположение</string>
+    <string name="hint_add_numbers">Введите номера для связи</string>
+</resources>

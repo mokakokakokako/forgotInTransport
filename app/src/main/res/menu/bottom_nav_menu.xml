@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_menu_admin"
+        android:enabled="true"
+        android:icon="@drawable/ic_menu_black"
+        android:title="@string/title_menu" />
+
+    <item
+        android:id="@+id/navigation_favorites"
+        android:enabled="true"
+        android:icon="@drawable/ic_favorites_black"
+        android:title="@string/title_favorites" />
+
+    <item
+        android:id="@+id/navigation_search_admin"
+        android:enabled="true"
+        android:icon="@drawable/ic_search_black"
+        android:title="@string/title_search" />
+</menu>
